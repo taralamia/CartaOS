@@ -1,8 +1,8 @@
 ## Description of Changes
 Please include a summary of the changes and the related issue. Provide relevant motivation and context.
 
-Closes #<issue-number>
-
+Closes #123
+<!-- Replace 123 with the actual issue number -->
 ## How to Test
 Describe the steps you took to test the changes. Provide instructions for reviewers to reproduce.
 
