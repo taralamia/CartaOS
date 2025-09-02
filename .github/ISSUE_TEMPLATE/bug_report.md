@@ -23,7 +23,6 @@ A clear and concise description of what actually happened.
 ### Environment
 - **OS:** [e.g., Linux, Windows, macOS]
 - **Version:** [e.g., Ubuntu 22.04]
-- **CartaOS Version/Commit:** [e.g., v0.1.0, a1b2c3d]
-
+- **Project Version/Commit:** [e.g., v0.1.0, a1b2c3d]
 ### Additional Context
 Add any other context, logs, or screenshots about the problem here.

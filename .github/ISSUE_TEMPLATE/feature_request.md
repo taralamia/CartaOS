@@ -1,7 +1,7 @@
 ---
 name: "🚀 Feature Request"
 about: "Suggest an idea or enhancement"
-title: "[Feat] <short summary>"
+title: "feat: <short summary>"
 labels: ["enhancement"]
 assignees: ""
 ---
